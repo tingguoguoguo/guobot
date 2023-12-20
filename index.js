@@ -8,6 +8,20 @@ const bot = linebot({
   channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN
 })
 
+// bot.on('message', event => {
+//   if (event.message.type === 'text') {
+//     if (event.message.text === '妙娃種子') {
+//       pokemons(event)
+//     }
+//   }
+// })
+
+pokemons()
+
+bot.on('postback', event => {
+  console.log(event.postback.data)
+})
+
 bot.listen('/', process.env.PORT || 3000, () => {
   console.log('機器人啟動')
 })
