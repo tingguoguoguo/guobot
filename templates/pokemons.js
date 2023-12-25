@@ -82,7 +82,7 @@ export default () => {
           offsetStart: '18px',
           offsetTop: '18px',
           cornerRadius: '100px',
-          width: '80px',
+          width: '75px',
           height: '25px'
         }
       ],
