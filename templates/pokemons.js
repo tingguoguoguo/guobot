@@ -59,6 +59,31 @@ export default () => {
           offsetStart: '0px',
           offsetEnd: '0px',
           paddingAll: '20px'
+        },
+        {
+          type: 'box',
+          layout: 'horizontal',
+          contents: [
+            {
+              type: 'text',
+              text: '屬性',
+              size: 'xs',
+              color: '#ffffff',
+              align: 'center',
+              gravity: 'center'
+            }
+          ],
+          backgroundColor: '#000000',
+          paddingAll: '2px',
+          paddingStart: '4px',
+          paddingEnd: '4px',
+          flex: 0,
+          position: 'absolute',
+          offsetStart: '18px',
+          offsetTop: '18px',
+          cornerRadius: '100px',
+          width: '80px',
+          height: '25px'
         }
       ],
       paddingAll: '0px'
