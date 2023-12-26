@@ -26,6 +26,10 @@ export default async (event) => {
 
     const userInput = event.message.text
 
+    if (userInput === '使用說明') {
+      return
+    }
+
     if (userInput === '隨機') {
       const responseContent = getRandomPokemonCommand(pokemons, template)
       await event.reply(responseContent)
