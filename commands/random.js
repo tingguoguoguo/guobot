@@ -1,5 +1,6 @@
 // randomPokemonCommand.js
 export default function getRandomPokemonCommand (pokemons, template) {
+  /* object.keys回傳一個有905隻寶可夢的陣列，隨機產生0~904的整數 */
   const randomPokemonName = Object.keys(pokemons)[Math.floor(Math.random() * Object.keys(pokemons).length)]
   const randomPokemon = pokemons[randomPokemonName]
 
