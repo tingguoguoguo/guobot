@@ -1,14 +1,26 @@
 # Linebot--寶可夢圖鑑
+內含905隻寶可夢的屬性和介紹
 資料來源: https://pokedex-list.netlify.app/ 和 https://raw.githubusercontent.com/rayc2045/pokedex/main/data/PokeApi.json
 ### ID: @434jeuzw
 ![image](https://github.com/tingguoguoguo/guobot/assets/145089036/2c798258-db13-4b92-a98f-2a5726a51d29)
 
 ------------------------------------------------
 ## 使用說明
-![image](https://github.com/tingguoguoguo/guobot/assets/145089036/a70f9903-0ef3-4290-9b98-dfe8eace8365)
-![image](https://github.com/tingguoguoguo/guobot/assets/145089036/8d4d77b3-9591-4a1c-92ef-d7c8cbd4010a)
-![image](https://github.com/tingguoguoguo/guobot/assets/145089036/2efd1706-2d06-4030-ae08-285bde272d16)
-![image](https://github.com/tingguoguoguo/guobot/assets/145089036/b4dfa47b-98bb-4ad4-b8eb-87b5f1cac9c5)
+![image](https://github.com/tingguoguoguo/guobot/assets/145089036/d92f35eb-8095-40f2-90a2-d1b9efef1b4e)
+
+### 隨機寶可夢
+ ![image](https://github.com/tingguoguoguo/guobot/assets/145089036/9efa6c9e-bb49-4afe-b648-4487651ada20)
+
+### 輸入寶可夢
+ ![image](https://github.com/tingguoguoguo/guobot/assets/145089036/c34003b9-184d-4458-b3da-e7b78eda88ca)
+
+### 找不到寶可夢
+![image](https://github.com/tingguoguoguo/guobot/assets/145089036/ffe06cdf-856b-484a-8c4a-3a8bab30c5aa)
+
+
+
+
+
 
 
 
